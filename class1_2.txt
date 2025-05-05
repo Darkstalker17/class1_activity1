@@ -1,0 +1,4 @@
+STEP 1 - Get the input from the user for number 1
+STEP 2 - Get the input from the user for number 2
+STEP 3 - Sum = Number1 + Number 2
+STEP 4 - print Sum
